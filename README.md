@@ -19,7 +19,7 @@ Say the voice trigger in the left column of the `jupyter.csv` to insert the test
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.1 |  Initiated project with 85 jupyter line and cell magics.                                                                                   | 2024 April 23        |
+| Version 0.1 |  Initiated project with 85 Ipython line and cell magics.                                                                                   | 2024 April 23        |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
