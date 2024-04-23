@@ -1,0 +1,85 @@
+line magic list magics,%lsmagic
+line magic alias,%alias
+line magic autocall,%autocall
+line magic automagic,%automagic
+line magic autosave,%autosave
+line magic change directory,%cd
+line magic colors,%colors
+line magic configure Ipython,%config
+line magic conda,%conda
+line magic dhist,%dhist
+line magic dirs,%dirs
+line magic doc test mode,%doctest_mode
+line magic editor,%edit
+line magic debug,%debug
+line magic clear screen,%cls
+line magic history,%history
+line magic kill backgropund jobs,%killbgjobs
+line magic load code,%load
+line magic load external ,%load_ext
+line magic log off,%logoff
+line magic log on,%logon
+line magic log start,%logstart
+line magic log state,%logstate
+line magic log stop,%logstop
+line magic macro ,%macro
+line magic magic ,%magic
+line magic mamba,%mamba
+line magic matplotlib inline mode,%matplotlib
+line magic micro mamba,%micromamba
+line magic notebook,%notebook
+line magic page,%page
+line magic pdb,%pdb
+line magic pdef,%pdef
+line magic pdoc,%pdoc
+line magic pinfo,%pinfo
+line magic pfile,%pfile
+line magic pinfo2,%pinfo2
+line magic pip,%pip
+line magic popd,%popd
+line magic pprint,%pprint
+line magic precision,%precision
+line magic prun,%prun
+line magic psource,%psource
+line magic pushd,%pushd
+line magic pwd,%pwd
+line magic pycat,%pycat
+line magic pylab,%pylab
+line magic quickref,%quickref
+line magic recall,%recall
+line magic rehasx,%rehashx
+line magic reload_ext,%reload_ext
+line magic reset,%reset
+line magic reset seletive,%reset_selective
+line magic rm,%rm
+line magic run,%run
+line magic save,%save
+line magic set env,%set_env
+line magic shell command,!!
+line magic system command,!
+line magic print traceback, %tb
+line magic time,%time
+line magic timeit,%timeit
+line magic unalias,%unalias
+line magic unload extension,%unload_ext
+line magic who,%who
+line magic who list,%who_ls
+line magic whos,%whos
+line magic xdel,%xdel
+line magic xmode,%xmode
+cell magic bash,%%bash
+cell magic capture output,%%capture
+cell magic html,%%html
+cell magic latex,%%latex
+cell magic javascript,%%javascript
+cell magic js,%%js
+cell magic markdown,%%markdown
+cell magic python,%%python
+cell magic python2,%%python2
+cell magic python3,%%python3
+cell magic ruby,%%ruby
+cell magic pypy,%%pypy
+cell magic script,%%script
+cell magic sh,%%sh
+cell magic svg,%%svg
+cell magic writefile,%%writefile
