@@ -13,7 +13,7 @@ Copy contents of `jupyter.csv` and paste into **bulk add** text area.
 
 ## Usage
 
-Say the voice trigger in the left column of the `jupyter.csv` to insert the test replacement in the right column.
+Say the voice trigger in the left column of the `jupyter.csv` to insert the text replacement in the right column.
 
 ## Update history
 
