@@ -23,7 +23,9 @@ Copy contents of `jupyter.csv` and paste into **bulk add** text area.
 
 Say the voice trigger in the left column of the `jupyter.csv` to insert the text replacement in the right column.
 
-## REleated 
+## Related repositories
+
+- [Snippets for use in markdown cells](https://github.com/MooersLab/markdown-jupyter-voice-in)
 
 
 ## Update history
