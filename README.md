@@ -2,18 +2,29 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Voice snippets for use in Jupyter notebooks
+# Voice In Plus snippets for use in Jupyter notebooks
 
 ## Purpose
 
 To ease voice computing in Jupyter notebooks with the Voice-In Plus plugin.
 
+## Contents
+
+- line magics
+- cell magics
+
+
+
 ## Installation
+
 Copy contents of `jupyter.csv` and paste into **bulk add** text area.
 
 ## Usage
 
 Say the voice trigger in the left column of the `jupyter.csv` to insert the text replacement in the right column.
+
+## REleated 
+
 
 ## Update history
 
