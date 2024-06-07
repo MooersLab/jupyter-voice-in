@@ -10,8 +10,8 @@ To ease voice computing in Jupyter notebooks with the Voice-In Plus plugin.
 
 ## Contents
 
-- line magics
-- cell magics
+- 69 line magics
+- 15 cell magics
 
 
 
