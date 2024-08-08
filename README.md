@@ -13,15 +13,14 @@ To ease voice computing in Jupyter notebooks with the Voice-In Plus plugin.
 - 69 line magics
 - 15 cell magics
 
-
-
-## Installation
-
-Copy contents of `jupyter.csv` and paste into **bulk add** text area.
-
 ## Usage
 
-Say the voice trigger in the left column of the `jupyter.csv` to insert the text replacement in the right column.
+- Open the *python.csv* file in a text editor or in the raw view on GitHub.
+- Select all, copy, and paste into the text area exposed upon clicking on the **bulk add** window in Voice-In Plus.
+- Hit the **Add Commands** button to add the new commands.
+- Activate Voice In Plus in Google Chrome or Microsoft Edge.
+- Speak the voice command (in the left column of the CSV file) with the cursor in a code cell in a Jupyter Notebook or in a Python script file that has been opened for editing inside Jupyter Lab.
+
 
 ## Related repositories
 
