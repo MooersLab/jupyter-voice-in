@@ -22,10 +22,6 @@ To ease voice computing in Jupyter notebooks with the Voice-In Plus plugin.
 - Speak the voice command (in the left column of the CSV file) with the cursor in a code cell in a Jupyter Notebook or in a Python script file that has been opened for editing inside Jupyter Lab.
 
 
-## Related repositories
-
-- [Snippets for use in markdown cells](https://github.com/MooersLab/markdown-jupyter-voice-in)
-
 ## Related projects
 
 - [markdown-jupyter-voice-in](https://github.com/MooersLab/markdown-jupyter-voice-in)
